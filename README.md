@@ -14,6 +14,6 @@
 ## 2. Service image
 
 [capture image](https://user-images.githubusercontent.com/71386860/159634307-f8dabbec-f563-4c53-b6a6-b4185857b5f8.jpeg)
-<img width="40px" height="auto" src="https://user-images.githubusercontent.com/71386860/159634307-f8dabbec-f563-4c53-b6a6-b4185857b5f8.jpeg" />
+<img width="500px" height="auto" src="https://user-images.githubusercontent.com/71386860/159634307-f8dabbec-f563-4c53-b6a6-b4185857b5f8.jpeg" />
 
 ![capture image](https://user-images.githubusercontent.com/71386860/159634617-ffe232be-a011-4ed7-8750-f9285a4dceee.jpeg)
