@@ -6,11 +6,13 @@
 
 - npm install
 
-- npm start!
+- npm start
 
 
 
 
 ## 2. Service image
-[KakaoTalk_Photo_2022-03-23-15-04-52 014](https://user-images.githubusercontent.com/71386860/159634307-f8dabbec-f563-4c53-b6a6-b4185857b5f8.jpeg)
 
+[capture image](https://user-images.githubusercontent.com/71386860/159634307-f8dabbec-f563-4c53-b6a6-b4185857b5f8.jpeg)
+
+![KakaoTalk_Photo_2022-03-23-15-04-51 013](https://user-images.githubusercontent.com/71386860/159634617-ffe232be-a011-4ed7-8750-f9285a4dceee.jpeg)
